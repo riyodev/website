@@ -1,0 +1,125 @@
+*{
+
+    text-align: center;
+    
+    }
+strong {
+  margin: 0;
+  position: absolute;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+ 
+strong {
+    font-weight: 900;
+    font-family: 'Roboto', sans-serif;
+
+    }
+
+img {
+    position: relative;
+    top: 8rem;
+}
+
+.hello{
+    color: white;
+    position: relative;
+    top: 11rem;
+    font-size: 3.8rem;
+}
+.hello a:hover{
+    transition:.3s;
+    font-size: 3.5rem;
+}
+
+.right {
+    position: relative;
+    left: 6rem;
+}
+
+.left {
+    position: relative;
+    right: 6rem;
+}
+
+.bio {
+    color: white;
+    position: relative;
+    top: 15rem;
+    font-size: 3.125rem;
+}
+.bio a:hover {
+    transition: .3s;
+    color: white;
+    font-size: 3.25rem;
+}
+
+
+.twitter {
+    color: white;
+    position: relative;
+    font-size: 3.125rem;
+    top: 19rem;
+   }
+   .twitter a:hover {
+       transition: .3s;
+       color: #1DA1F2;
+       font-size: 3.25rem;
+   }
+.youtube {
+    color: white;
+    position: relative;
+    font-size: 3.125rem;
+    top: 15rem;
+    }
+    .youtube a:hover{
+        transition:.3s;
+        color: #FF0000;
+        font-size: 3.25rem;
+    }
+
+.discord {
+    color: white;
+    position: relative;
+    font-size: 3.125rem;
+    top: 23rem;
+
+}
+.discord a:hover{
+    transition:0.3s;
+    color: #5b6adf;
+    font-size: 3.25rem;
+}
+
+.email {
+    color: white;
+    position: relative;
+    top: 19rem;
+    font-size: 3.125rem;
+}
+.email a:hover{
+    transition:0.3s;
+    color: #f0f0f093;
+    font-size: 3.25rem;
+}
+
+.blog {
+    color: white;
+    position: relative;
+    top: 23rem;
+    font-size:3.125rem;
+}
+.blog a:hover{
+    transition: 0.3s;
+    color: green;
+    font-size: 3.25rem;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.main {
+    position: relative;
+    top: 7rem;
+}

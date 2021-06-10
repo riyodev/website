@@ -1,0 +1,49 @@
+*{
+
+    text-align: center;
+    
+    }
+ 
+.everything {
+    font-weight: 900;
+    font-family: 'Roboto', sans-serif;
+
+    }
+
+.name {
+    color: white;
+    font-size: 3.8rem;
+    position: relative;
+    top: 10rem;
+}
+
+.body {
+    color: white;
+    font-size: 3.125rem;
+    position: relative;
+    top: 10rem;
+}
+
+.lunalink {
+    color: white;
+    font-size: 3.125rem;
+    position: relative;
+    top: 8.5rem;
+    }
+    .lunalink a:hover{
+        transition: .3s;
+        color: #da9c00;
+        font-size: 3.19rem;
+    }
+
+.back {
+    color: gray;
+    font-size: 2.2rem;
+    position: relative;
+    top: 8.6rem;
+}
+    .back a:hover {
+        transition: .3s;
+        color: gray;
+        font-size: 2.2rem;
+    }
